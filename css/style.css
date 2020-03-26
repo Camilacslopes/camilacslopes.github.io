@@ -1,0 +1,96 @@
+* {
+    box-sizing: border-box;
+  }
+  
+  body {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navbar-brand img {
+    width: 190px;
+    
+  }
+  
+  header nav ul li a {
+    text-transform: uppercase;
+    font-weight: bold;
+    transition: 0.3s;
+    text-align: center;
+  }
+  
+  .navbar-light .navbar-nav .nav-link:focus,
+  .navbar-light .navbar-nav .nav-link:hover {
+  
+    color:#88093b;
+  }
+  
+  h1,
+  h2,
+  h3,
+  h4 {
+    text-transform: uppercase;
+    color:#88093b;
+  
+  }
+  
+  h3 {
+    font-size: 30px;
+    margin: 30px 0 0;
+  }
+  
+  .btn.btn-primary {
+    background-color: #88093b;
+    border-color: #88093b;
+  }
+  
+  .carousel-inner img{
+    height:440pt;
+  
+  }
+  
+  h5{ 
+    position: absolute; 
+    top: 350px; 
+    left: 0; 
+    width: 100%; 
+  }
+  
+  h6{ 
+    position: absolute; 
+    top: 350px; 
+    left: 0; 
+    width: 100%; 
+  }
+  
+  h7 { 
+    position: absolute; 
+    top: 350px; 
+    left: 0; 
+    width: 100%; 
+  }
+  
+  h5 span { 
+    color: white; 
+    font: bold 24px/45px Helvetica, Sans-Serif; 
+    letter-spacing: -1px;  
+    background: rgb(0, 0, 0); /* fallback color */
+    background: rgba(0, 0, 0, 0.7);
+    padding: 10px; 
+  }
+  h6 span { 
+    color: white; 
+    font: bold 24px/45px Helvetica, Sans-Serif; 
+    letter-spacing: -1px;  
+    background: rgb(0, 0, 0); /* fallback color */
+    background: rgba(0, 0, 0, 0.7);
+    padding: 10px; 
+  }
+  h7 span { 
+    color: white; 
+    font: bold 24px/45px Helvetica, Sans-Serif; 
+    letter-spacing: -1px;  
+    background: rgb(0, 0, 0); /* fallback color */
+    background: rgba(0, 0, 0, 0.7);
+    padding: 10px; 
+  }
